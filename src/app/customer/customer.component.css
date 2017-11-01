@@ -1,0 +1,11 @@
+table{
+    width: 100%;
+}
+th{
+    background-color: rgb(49, 0, 128);
+    color: white;
+}
+td{
+    background-color: white;
+    color: black;
+}
